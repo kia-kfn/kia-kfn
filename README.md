@@ -1,3 +1,5 @@
+![logo](https://github.com/kia-kfn/kia-kfn/blob/main/plane-in-the-sky.jpeg)
+
 <h1 align="center">Hi 👋, I'm Kiarash</h1>
 <h3 align="center">A passionate embedded systems and microcontroller developer</h3>
 
